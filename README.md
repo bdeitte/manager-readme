@@ -24,8 +24,6 @@ I will bring up any feedback I have in 1:1s, which falls into everything I discu
 
 If you have feedback for other people, it's often best to talk to them. If you want advice on how to do this, we can talk through this. If you don't feel comfortable with this, please let me know, and I can see how else to share.
 
-If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I do want to hear it. And if you think I don't want to hear it, I'd love to hear why you feel that way.
-
 ## Other communication
 
 If you have any issue, you can contact me any time. You may see that my calendar is "busy", or you may hear me say that it's a busy week. Don't have this stop you.
