@@ -28,7 +28,7 @@ If you have any issue, you can contact me any time. You may see that my calendar
 
 I may send you messages at odd hours, late in the evening or on the weekend. Do not take this as a signal that I expect you to be working then- my schedule is sometimes tossed around for family things. Or I may just be choosing to finish up things at a different time, but this is not meant as an indication that you need to do this as well.
 
-## Your Growth
+## Your growth
 
 Your growth is up to you, but I will help you in any way I can. I expect at first you'll be learning a lot in your new position, and figuring out how everything works. But sometimes people find themselves, over time, needing new challenges or wanting to learn different things. I can help you with that, and provide support for it. This is something I really enjoy about my job, and I've helped multiple people grow into team leads, for instance. So talk to me about what you're looking for, or make sure you put it in your goals that we'll set over time.
 
