@@ -8,29 +8,29 @@ I have a few different roles at Maxwell Health, both in terms of what I do as an
 
 ## 1:1s
 
-I will make sure we have a 1:1 scheduled weekly, and I will rarely cancel these. I feel 1:1s to be a critical part of how I interact with people. Sometimes we will not have much to talk about, and that's ok. Keeping the rythym and dialogue open is important to me.
+I will make sure we have a 1:1 scheduled weekly, and I will rarely cancel these. These 1:1s will be a critical part of how we interact. Sometimes we will not have much to talk about, and that's ok. Keeping the rythym and dialogue open is important to me.
 
-You will often hear me say at the start of a 1:1, "is there anything you want to talk about, and is there anything I can do for you?" This may be repeated, but it is meant in earnest every time. I want to be able to help you out, and the 1:1s can be a good way for us to do us.
+You will often hear me say at the start of a 1:1, "is there anything you want to talk about, and is there anything I can do for you?" This may be repeated, but it is meant in earnest every time. I want to be able to help you out, and the 1:1s are a good time to talk about this.
 
 I keep a list of things in a document that I want to talk about, and I sometimes take notes to myself to look at later.  If I'm looking or writing during a 1:1, it's for this.
 
-I also view 1:1s as a private conversation that we have. I may share with other managers if it's important for me to do so, but I try to keep what we say between us. I view this as important part of a trustful relationship with each other.
+I view 1:1s as a private conversation that we have. I may share with other managers if it's important for me to do so, but I try to keep what we say between us. I see this as important part of a trustful relationship with each other.
 
 ## Feedback
 
-If you have feedback for me, you can let me know any time. I find 1:1s a good time for this, but if you find a different communication will work better for you, that's ok.
+If you have feedback for me, or about what you're doing, or anything else, you can let me know any time. The 1:1s work well for this, but if it's something you want to handle over email or Slack, that's ok.
 
-I will bring up any feedback I have in 1:1s, which falls into everything I discuss above. If you have feedback on the feedback, you may not think of it right away.  That's ok, we can talk anytime. I'm talking about both positive and constructive feedbak here- you will hear both from me.
-
-If you have feedback for other people, it's often best to talk to them. If you want advice on how to do this, we can talk through this. If you don't feel comfortable with this, please let me know, and I can see how else to share.
+I will bring up any feedback I have in 1:1s. You can expect to hear both positive and constructive feedback from me over time. 
 
 ## Other communication
 
-If you have any issue, you can contact me any time. You may see that my calendar is "busy", or you may hear me say that it's a busy week. Don't have this stop you.
-
-I tend to see both Slack and email quickly, either work fine for me.
+If you have any issue, you can contact me any time. You may see that my calendar is "busy", or you may hear me say that it's a busy week. Don't have this stop you. I tend to see both Slack and email quickly, and either work fine for me.
 
 I may send you messages at odd hours, late in the evening or on the weekend. Do not take this as a signal that I expect you to be working then- my schedule is sometimes tossed around for family things. Or I may just be choosing to finish up things at a different time, but this is not meant as an indication that you need to do this as well.
+
+## Your Growth
+
+Your growth is up to you, but I will help you in any way I can. I expect at first you'll be learning a lot in your new position, and figuring out how everything works. But sometimes people find themselves, over time, needing new challenges or wanting to learn different things. I can help you with that, and provide support for it. This is something I really enjoy about my job, and I've helped multiple people grow into team leads, for instance. So talk to me about what you're looking for, or make sure you put it in your goals that we'll set over time.
 
 ## About me
 
