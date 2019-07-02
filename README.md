@@ -18,9 +18,9 @@ I view 1:1s as a private conversation that we have. I may share with other manag
 
 ## Feedback
 
-If you have feedback for me, or about what you're doing, or anything else, you can let me know any time. The 1:1s work well for this, but if it's something you want to handle over email or Slack, that's ok.
+If you have feedback for me, or about what you're doing, or anything else, you can let me know any time. The 1:1s usually work well for this. I take the feedback you give very seriously, and you'll see a followup on whatever it is.
 
-I will bring up any feedback I have in 1:1s. You can expect to hear both positive and constructive feedback from me over time. 
+I will bring up any feedback I have in 1:1s. You can expect to hear both positive and constructive feedback from me over time, but usually positive. 
 
 ## Other communication
 
