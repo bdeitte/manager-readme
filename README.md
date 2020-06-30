@@ -4,7 +4,7 @@ Hi, I'm Brian. As we start to work together, I want to make sure I can help out 
 
 ## My role
 
-I have a few different roles at Maxwell Health, both in terms of what I do as an engineering manager and as the head of infrastructure. We may talk more about some of these responsibilties in time (or you may be invovled with them!) But my top responsibility is as a people's manager. This is what I see as my priority #1, to enable and grow the talent like you.
+I have a few different roles at Maxwell Health, in terms of what I do as an engineering manager, the director of infrastructure, and with security/compliance. We may talk more about some of these responsibilties in time (or you may be invovled with them!) But my top responsibility is as a people's manager. This is what I see as my priority #1, to enable and grow the talent like you.
 
 ## 1:1s
 
@@ -14,7 +14,7 @@ You will often hear me say at the start of a 1:1, "is there anything you want to
 
 I keep a list of things in a document that I want to talk about, and I sometimes take notes to myself to look at later.  If I'm looking or writing during a 1:1, it's for this.
 
-I view 1:1s as a private conversation that we have. I may share with other managers if it's important for me to do so, but I try to keep what we say between us. I see this as an important part of a trustful relationship with each other.
+I view 1:1s as a private conversation that we have. I may share with another manager if it's important for me to do so, but otherwise I keep what we say between us. I see this as an important part of a trustful relationship with each other.
 
 ## Feedback
 
@@ -34,6 +34,6 @@ Your growth is up to you, but I will help you in any way I can. I expect at firs
 
 ## About me
 
-I've been at Maxwell Health for 3 years. I worked for Brightcove before that, and Adobe/Macromedia/Allaire before that. I've been a developer for most of my career.
+I've been at Maxwell Health for 4 years. I worked for Brightcove before that, and Adobe/Macromedia/Allaire before that. I've been a developer or team lead for the majority of my career.
 
-You'll most hear me talking about my wife or kids (ages 9, 7, and 5 as of this writing). That is a whole lot of my life, along with work, and I enjoy it all! I'm also a lifelong runner.
+You'll most hear me talking about my wife or kids (ages 10, 8, and 6 as of this writing). That is a whole lot of my life, along with work, and I enjoy it all! I'm also a lifelong runner.
