@@ -1,6 +1,6 @@
-# Manager Readme
+# Not a Manager Readme
 
-Hi, I'm Brian. As we start to work together, I want to make sure I can help out you right away, and you understand better how I work. This document is not meant to override the mutual understandings we build up in our relationship, but it's an easy way to jump start them.
+This is [not a manager README](deitte.com/not-a-manager-readme/), but you're welcome to read through anyways. 
 
 ## My role
 
@@ -36,6 +36,4 @@ This is something I really enjoy about my job. I've helped multiple people grow 
 
 ## About me
 
-I've been at Sun Life for nearly 2 years, and at the company it acquired (Maxwell Health) for 3 years before that. Previously I worked for Brightcove and Adobe/Macromedia/Allaire. I've been a developer or team lead for the majority of my career.
-
-I lived in Boston for most of my adult life and recently moved near family in Madison Wisconsin. You'll most hear me talking about my wife or kids (ages 11, 9, and 7 as of this writing). That is a whole lot of my life, along with work, and I enjoy it all! I'm also a lifelong runner.
+Let's talk, and then I can learn about you too!
