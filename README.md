@@ -1,6 +1,6 @@
 # Not a Manager Readme
 
-This is [not a manager README](deitte.com/not-a-manager-readme/), but you're welcome to read through anyways. 
+This is [not a manager README](https://deitte.com/not-a-manager-readme/), but you're welcome to read through anyways. 
 
 ## My role
 
